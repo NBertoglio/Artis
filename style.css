@@ -23,6 +23,15 @@ h1:hover{
   font-size: 4rem;
   text-shadow: 3px 3px 2px black;
 }
+h2{
+  font-size: 2rem;
+  font-weight:bold;
+  color: rgb(12, 184, 115);
+  text-shadow: 2px 2px 1px black;
+  text-decoration: none;
+  padding: none;
+  transition: 0.5s;
+}
 .buffer{
   height: 7rem;
 }
